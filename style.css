@@ -1,0 +1,18 @@
+body {
+    margin-left: 25em;
+    margin-right: 25em;
+    font-family: consolas;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Segoe UI';
+}
