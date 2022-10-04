@@ -1,17 +1,18 @@
 body {
     margin-left: 25em;
     margin-right: 25em;
-    font-family: consolas;
+    font-family: 'Segoe UI';
 }
 
 h1 {
     text-align: center;
-    font-family: 'Roboto';
-    font-size: 10em;
+    font-family: roboto;
+    font-size: 12em;
 }
 
 h2 {
     text-align: center;
+    font-family: consolas;
 }
 
 p {
@@ -20,5 +21,5 @@ p {
 }
 
 code {
-    font-family: 'Courier New';
+    font-family: consolas;
 }
