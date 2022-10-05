@@ -52,7 +52,7 @@ ul.navbar {
 }
   
 li.navbar {
-    float: left;
+    float: center;
 }
 
 li a.navbar {
