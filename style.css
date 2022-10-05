@@ -4,10 +4,19 @@ body {
     font-family: 'Segoe UI';
 }
 
-h1 {
-    text-align: center;
-    font-family: roboto;
+h1 { 
+    color: #111; 
+    font-family: 'Bison', sans-serif; 
+    font-size: 64px; 
+    font-weight: 700; 
+    line-height: 64px; 
+    margin: 0 0 0; 
+    padding: 20px 30px; 
+    text-align: center; 
+    text-transform: uppercase; 
 }
+
+
 
 h2 {
     text-align: center;
@@ -21,4 +30,45 @@ p {
 
 code {
     font-family: consolas;
+}
+
+a.title-link:link {
+    color:#ff3a3a;
+}
+
+a.title-link:visited {
+    color:#ff3a3a;
+}
+
+a.title-link:hover {
+    color:#b2ff54;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: 1px solid #bcbcbc;
+    border-bottom: 1px solid #bcbcbc;
+}
+  
+li.navbar {
+    float: left;
+}
+
+li a.navbar {
+    display: block;
+    color: rgb(94, 94, 94);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a.navbar:hover {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
