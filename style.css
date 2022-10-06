@@ -70,3 +70,15 @@ li a.navbar:hover {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+a.archive-link {
+    text-decoration: none;
+    color: rgb(0, 78, 111);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a.archive-link:hover {
+    text-decoration: none;
+    color: rgb(0, 155, 222);
+    font-family: 'Courier New', Courier, monospace;
+}
