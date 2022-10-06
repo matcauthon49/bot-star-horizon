@@ -84,5 +84,5 @@ a.archive-link {
 a.archive-link:hover {
     text-decoration: none;
     color: rgb(0, 155, 222);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace, bold;
 }
