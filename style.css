@@ -33,19 +33,19 @@ p {
 }
 
 p.date {
-    text-align: center;
+    text-align: center !important;
     font-family: 'Segoe UI';
 }
 
 p.spoiler {
-    background-color: #111;
-    color: #111;
+    background-color: #111 !important;
+    color: #111 !important;
     font-family: 'Segoe UI';
 }
 
 p.spoiler:hover {
-    background-color: #111;
-    color: rgb(255, 255, 255);
+    background-color: #111 !important;
+    color: rgb(255, 255, 255) !important;
     font-family: 'Segoe UI';
 }
 
