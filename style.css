@@ -32,6 +32,23 @@ p {
     font-family: 'Segoe UI';
 }
 
+p.date {
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+p.spoiler {
+    background-color: #111;
+    color: #111;
+    font-family: 'Segoe UI';
+}
+
+p.spoiler:hover {
+    background-color: #111;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI';
+}
+
 code {
     font-family: consolas;
 }
