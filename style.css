@@ -103,3 +103,7 @@ a.archive-link:hover {
     color: rgb(0, 155, 222);
     font-family: 'Courier New', Courier, monospace, bold;
 }
+
+div.blue-box{
+    background-color: rgb(84, 204, 255);
+}
