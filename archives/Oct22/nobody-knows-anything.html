@@ -41,7 +41,7 @@
 
         <h3>Repeated Squaring</h3>
 
-        <p>The amount of haxx in crypto is honestly ridiculous. Here's a result I saw the other day: to show that a prover honestly computed \(b^{2^t}\) successfully, split \(2^t=q\ell+r\), where \(\ell\) is a 'challenge' prime (the verifier issues it as a challenge). Calculate \(b^r\), which is easy, and the prover sends \(\pi=b^q\). The verifier simply needs to compute \(\pi^\ell\timesb^r\) and check whether it's the claimed value of \(b^{2^t}\), which the prover can't forge. So simple, so effective. And it's zero-knowledge, too.</p>
+        <p>The amount of haxx in crypto is honestly ridiculous. Here's a result I saw the other day: to show that a prover honestly computed \(b^{2^t}\) successfully, split \(2^t=q\ell+r\), where \(\ell\) is a 'challenge' prime (the verifier issues it as a challenge). Calculate \(b^r\), which is easy, and the prover sends \(\pi=b^q\). The verifier simply needs to compute \(\pi^\ell\times b^r\) and check whether it's the claimed value of \(b^{2^t}\), which the prover can't forge. So simple, so effective. And it's zero-knowledge, too.</p>
 
     </body>
 </html>
