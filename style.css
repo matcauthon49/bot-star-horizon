@@ -108,3 +108,8 @@ div.blue-box{
     background-color: rgb(185, 234, 255);
     padding: 2.5%;
 }
+
+div.red-box{
+    background-color: rgb(255, 185, 185);
+    padding: 2.5%;
+}
