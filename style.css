@@ -113,3 +113,10 @@ div.red-box{
     background-color: rgb(255, 185, 185);
     padding: 2.5%;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
